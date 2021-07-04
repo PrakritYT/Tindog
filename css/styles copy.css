@@ -1,0 +1,29 @@
+#title {
+    background-color:#ff4c68;
+}
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+.title-heading {
+    font-family: montserrat;
+    size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.containner-fluid {
+    padding: 3% 15%;
+}
+.nav-heading{
+    font-size:3rem;
+    font-weight: bold;
+}
+.navbar {
+    margin-bottom:80px;
+}
+.navbar-item {
+    margin-left:25px;
+}
+.title-img {
+    transform: rotate(30deg);
+    
+}

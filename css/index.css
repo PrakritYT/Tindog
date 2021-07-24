@@ -1,0 +1,115 @@
+body {
+   text-align: center;
+   margin:0;
+}
+.top-containner {
+    position: relative;
+    padding-top: 100px;
+    background:#EAF6F6;
+    margin-bottom:40px;
+}
+h1 {
+    margin:50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+.cloud-img {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloud-img1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+h2 {
+    font-size: 2.625rem;
+    color: #66BFBF;
+    font-weight : normal;
+}
+h3{
+    color:#11999E;
+}
+.skill-row {
+    width: 50%;
+    margin:100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+.skill-img {
+    width: 25%;
+}
+.skill-img1 {
+    float: left;
+    padding-right:30px;
+}
+.skill-img2 {
+    float: right;
+    padding-left: 30px;
+}
+.BUTTON_QNC {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #3372D7);
+    background-image: -moz-linear-gradient(top, #66BFBF, #3372D7);
+    background-image: -ms-linear-gradient(top, #66BFBF, #3372D7);
+    background-image: -o-linear-gradient(top, #66BFBF, #3372D7);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #3372D7);
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    height: 4px;
+    line-height: 4px;
+    color: #FFFFFF;
+    font-family: Arial;
+    width: 122px;
+    font-size: 12px;
+    padding: 16px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px auto 20px;
+ }
+ hr {
+    border:7px;
+    border-style: dotted;
+    border-bottom: 0;
+    width: 3%;
+    border-color: #EAF6F6;
+    margin-top:0;
+ }
+ p {
+     line-height:2;
+ }
+.profile {
+    padding-bottom:40px;
+}
+.skills {
+    padding-top:30px;
+    padding-bottom:0;
+}
+.contact-me {
+    padding-top:30px;
+}
+.bottom-container {
+    background:#66BFBF ;
+    margin: 50px auto 0;
+    padding: 20px;
+}
+a {
+    color:#11999E;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.contact-header {
+    margin-bottom:25px;
+}
+.copyright {
+    color:#EAF6F6;
+}
+.pfp {
+    height:250px;
+    border-radius: 100%;
+}
